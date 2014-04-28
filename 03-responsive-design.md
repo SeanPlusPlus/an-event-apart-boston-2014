@@ -31,10 +31,23 @@ https://twitter.com/danielmall
 ### Modern web design process
 
 - plan; research (just go out there and talk to consumers of this project); hypothesize
-- inventory (take a peak at the "The Elements of Content Strategy"); performance budget as design tool (this is a really friggin interesting part - get his slides and review this)
+- inventory (take a peak at the "The Elements of Content Strategy"); 
+- performance budget as design tool (this is a really friggin interesting part - get his slides and review this)
 - sketching; explore ideas roughly and quickly ("Responsive Design Workflow"); 
 - element collages:
+  - i like this very much; further reading:
   - http://danielmall.com/articles/rif-element-collages/
   - http://clearleft.com/thinks/visualdesignexplorations/
 - prototyping; prototype one starts very very very basic, and all steps very minimal
 - assemble (should be the easy part); prep for service!!!
+- it is really easy to work through well thoughtout preset ideas
+
+
+### Fluid grid, flexible images, media queries
+
+- responsive not hard
+- brings up a lot of things tho!
+  - availability of content
+  - performance
+  - hierarchy
+  - #rwd as a reminder
