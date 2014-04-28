@@ -29,12 +29,12 @@ Web strategy similar to Business / University / Government strategy.
 - built into the experience
 
 
-### Metered paywall
+### Business model options
 
-- demands excellent content
-- nyt rocked it
-- in app purchases similar
-
-... Really solid talk ... Hard to take notes on though ... Just listening to the flow.
+- Several alternatives to ads!
+- Metered paywall
+- Repurposed content
+- Supporting products sales
+- In app purchases similar
 
 ... Wonderful day one!
