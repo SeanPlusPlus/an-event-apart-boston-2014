@@ -2,8 +2,7 @@
 
 Day One, first talk
 
-Jeffrey, Zeldman
-
+[https://twitter.com/zeldman](@zeldman)
 
 ### "It's interactive if it's on the internet"
 
