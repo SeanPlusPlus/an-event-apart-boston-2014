@@ -1,8 +1,9 @@
 # Understanding Web Design
 
-Day One, first talk.
+Day One, first talk
 
 Jeffrey, Zeldman
+
 
 ### "It's interactive if it's on the internet"
 
@@ -19,3 +20,15 @@ Jeffrey, Zeldman
 
 - only when our partners understand what we do ... do we get the autonomy to do what we want
 - understanding the business of a client bigger than technical expertise 
+- always be doing something personal, break out from rigid job thinking
+
+
+### How to let our bosses and clients know what matters
+
+- webbys and art directors club for celebs and advertising
+- major web companies speak to us but not for us
+
+
+### Anything that gets in the way of what our user wants to do, is bad design
+
+
