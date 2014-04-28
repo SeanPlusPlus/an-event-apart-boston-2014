@@ -1,6 +1,6 @@
 # Design with data
 
-Day One, second session
+Day One, second talk
 
 https://twitter.com/sazzy
 
