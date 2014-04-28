@@ -1,5 +1,9 @@
 # Design with data
 
+Day One, second session
+
+@sazzy
+
 - instincts are experiments, data is proof
 - it can be easy to think of data/content as not part of our job
 - we approach projects from design or development perspective - not asking "why" enough
@@ -25,3 +29,8 @@
 
 - be flexible with your design
 - app to check out: crazy egg, optimizely
+
+
+### Content hierarchy over content placement
+
+- key for responsive design
