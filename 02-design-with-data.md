@@ -2,7 +2,7 @@
 
 Day One, second session
 
-[https://twitter.com/sazzy](@sazzy)
+https://twitter.com/sazzy
 
 - instincts are experiments, data is proof
 - it can be easy to think of data/content as not part of our job

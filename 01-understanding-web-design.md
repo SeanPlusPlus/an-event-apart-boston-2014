@@ -2,7 +2,7 @@
 
 Day One, first talk
 
-(@zeldman)[https://twitter.com/zeldman]
+https://twitter.com/zeldman
 
 ### "It's interactive if it's on the internet"
 
