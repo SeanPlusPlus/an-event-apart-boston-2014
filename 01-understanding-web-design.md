@@ -31,4 +31,20 @@ Jeffrey, Zeldman
 
 ### Anything that gets in the way of what our user wants to do, is bad design
 
+- we are strategists, not waiters
+- think about user and goals, not how to technicially achieve something no one should be doing in the first place
+- ppl fantasize the tech aspects of this work
+- *we do not design for browsers, we do not design for tablets, we design for people*
+- web design is not book or poster design, it is not game design
+- it is more like type design / architecture ... creating planes and grids then steps away
+- a great site makes interaction easy
+- they guide you subtly - never passive - looks that way tho
+- great design can be invisible or in your face
+- always delights and makes experience better
 
+
+### How do we turn colleagues into allies
+
+- every day you come to work is a day to impress people
+- do not wait to be invited to do you job
+- be on time; be assertive; volunteer;
