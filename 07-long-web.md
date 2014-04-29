@@ -40,3 +40,5 @@ If a browser sees a tag or attribute it does not understand, it ignores it.
 
 - core part of this whole content first / mobile first / progressive enhancement thing
 - whereever you had a third party widget, this is the pattern
+
+http://futurefriendlyweb.com/
