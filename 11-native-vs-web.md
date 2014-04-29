@@ -25,3 +25,7 @@ https://twitter.com/brucel
 - http://phonegap.com/
 - why did the w3c not do this?
 - device apis are not the thing anymore ... app store is big
+
+### Why do ppl like native?
+
+- mobile users bookmark differently
