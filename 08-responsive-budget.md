@@ -32,4 +32,19 @@ http://calendar.perfplanet.com/2013/an-engineers-guide-to-optimization/
 - file concatentaion mitigates this
 - tcp is optimized for open connections sending down a bunch of data
 - *latency* is performance bottleneck for web, not bandwidth
-- and mobile's growth means more latency
+- and mobile growth means more latency
+
+### Critical CSS
+
+- serve up less important stuff lower
+- and crucial stuff in head and inlined
+- optimize for the first crucial view
+
+### Best practices
+
+- move js to bottom
+- minimize render blocking CSS
+- deliver the goods (content should be in HTML - progressive enhancement)
+- no redirects
+- gzipping always helps
+- visualize performance gains!
